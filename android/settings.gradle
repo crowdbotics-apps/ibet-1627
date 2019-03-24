@@ -1,0 +1,3 @@
+rootProject.name = 'ibet_1627'
+
+include ':app'
